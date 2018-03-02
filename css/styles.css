@@ -11,6 +11,10 @@
 }
 
 .instructions{
-  text-align: center;
+  text-align: float right;
   padding-top: 10em;
+}
+body {
+background-image: url(../img/PigDice1.jpg);  
+
 }
