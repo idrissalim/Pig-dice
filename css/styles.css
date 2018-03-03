@@ -20,15 +20,23 @@ body {
 background-image: url(../image/3.jpg);
 }
 h3 {
-  background-color: yellow
+  background-color: yellow;
+  text-align: left;
 
 }
 h2 {
-  background-color: green
+  background-color: green;
+  text-align: left;
 
 }
 h1 {
+  text-align: center;
+  text-indent: inherit;
   background-color: pink;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-size: cover;
+
+h1 {
+
+body background-image: url(../image/download(1).jpg);
 }
